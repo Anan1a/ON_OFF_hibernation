@@ -1,3 +1,22 @@
+@ECHO OFF
+REM  QBFC Project Options Begin
+REM HasVersionInfo: Yes
+REM Companyname: bilibili主页https://space.bilibili.com/695872226
+REM Productname: 打开关闭休眠功能
+REM Filedescription: 可以用来打开关闭休眠 ヾ(≧▽≦*)o
+REM Copyrights: 空に舞う雪,公共,無
+REM Trademarks: 特別感謝:空に舞う雪,雨後的春天,安安La,碳酸心态,食日者,Tan Green,雪が舞う,QQ樱Annie
+REM Originalname: 打开关闭休眠.bat
+REM Comments: 你是看不到注释地 (っ °Д °;)っ
+REM Productversion:  0. 1. 0. 0
+REM Fileversion:  0. 1. 0. 0
+REM Internalname: DaKai_GuanBi_XiuMian
+REM ExeType: console
+REM Architecture: x86
+REM Appicon: 打开关闭休眠.ico
+REM AdministratorManifest: No
+REM  QBFC Project Options End
+@ECHO ON
 @echo off
 mode con cols=60 lines=40
 title 打开关闭休眠
